@@ -1,1 +1,1 @@
-# pruebaGit12
+# El Repositorio pruebaGit12 pertenece a Juan De la Torre Con fines educativos
